@@ -82,6 +82,9 @@ A curated list of awesome Indie Maker
 * [WordPress](https://www.wordpress.com/) - Create a free website or build a blog. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
 * [Google Forms](https://www.google.com/forms/about/) - Free Online Surveys for Personal Use
 * [giphy](https://giphy.com/) - Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ## Launch
 
